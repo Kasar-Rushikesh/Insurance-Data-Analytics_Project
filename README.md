@@ -83,7 +83,7 @@ This dashboard focuses on weekly branch performance and sales pipeline tracking.
 This dashboard helps managers track branch targets, executive activity, and revenue opportunities in real time.
 
 ---
-<img width="1601" height="742" alt="Screenshot 2026-04-13 203914" src="https://github.com/user-attachments/assets/2f3b028d-059b-4247-8f0d-9c0013e5609a" />
+<img width="1919" height="1006" alt="Screenshot 2026-04-13 203827" src="https://github.com/user-attachments/assets/29781357-b3f3-4271-9008-1e66d0aba17a" />
 
 # 2️⃣ Insurance Analyst Dashboard
 
